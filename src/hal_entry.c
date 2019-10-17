@@ -2,7 +2,7 @@
 #include "hal_data.h"
 
 
-/*171019dsfadtyutyutyfadfadfa */
+/*171tyutyfadfadfa */
 void hal_entry(void) {
 
    }
