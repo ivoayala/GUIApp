@@ -1,0 +1,14 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Renesas\Synergy\e2studio_v7.5.1_ssp_v1.7.0\toolchains\gcc_arm\7.2.1_2017q4\bin\;C:\Renesas\Synergy\e2studio_v7.5.1_ssp_v1.7.0\Utilities;C:/Renesas/Synergy/e2studio_v7.5.1_ssp_v1.7.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/bin/client;C:/Renesas/Synergy/e2studio_v7.5.1_ssp_v1.7.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/bin;C:/Renesas/Synergy/e2studio_v7.5.1_ssp_v1.7.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/lib/i386;C:/Users/UTEQ/AppData/Local/Temp/7zSE77C.tmp//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/bin/client;C:/Users/UTEQ/AppData/Local/Temp/7zSE77C.tmp//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/bin;C:/Users/UTEQ/AppData/Local/Temp/7zSE77C.tmp//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/lib/i386;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\MySQL\MySQL Server 5.7\bin\mysql.exe;C:\PROGRA~2\PICC;C:\Users\UTEQ\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\nodejs\;C:\Users\UTEQ\AppData\Local\Programs\Python\Python37-32;C:\Users\UTEQ\AppData\Local\Programs\Python\Python37-32\scripts;C:\xampp\mysql\bin;C:\Program Files\MongoDB\Server\4.0\bin;C:\xamp\mysql\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\GNU Tools ARM Embedded\7 2017-q4-major\bin;C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\UTEQ\AppData\Local\GitHubDesktop\bin;C:\Users\UTEQ\AppData\Local\Temp\7zSE77C.tmp;;C:\Users\UTEQ\AppData\Local\Temp\7zSE77C.tmp
+export TCINSTALL=C:\Renesas\Synergy\e2studio_v7.5.1_ssp_v1.7.0\toolchains\gcc_arm\7.2.1_2017q4$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=C:\Renesas\Synergy\e2studio_v7.5.1_ssp_v1.7.0\internal\projectgen\arm\licenses\SSP_License_Example_EvalLicense_20180725.xml
+export SECURE_BUILD_COMMAND=C:\Renesas\Synergy\e2studio_v7.5.1_ssp_v1.7.0\Utilities\\/isdebuild
+export TC_VERSION=7.2.1.20170904
+export AMS_KEEP_FILE=false
+export PWD=$(CURDIR)
+export GCC_VERSION=7.2.1
